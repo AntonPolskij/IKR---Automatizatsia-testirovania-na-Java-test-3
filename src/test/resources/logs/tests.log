@@ -1,0 +1,2 @@
+2307 [main] INFO  BookingServiceTest - Booking successful for user user1, from 2024-05-22T00:12:42.516521400, to 2024-05-22T01:12:42.516521400
+2370 [main] ERROR BookingServiceTest - Can't book for user user2, from 2024-05-22T00:12:42.658520500, to 2024-05-22T01:12:42.658520500
